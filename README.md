@@ -19,7 +19,11 @@
  &nbsp; <a href="https://t.me/slavaheroes" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" /></a>
 </p>
 
+<br/>
 
+Credits: [slavaheroes](https://github.com/slavaheroes)
+
+Last Edited on: 2022/08/01
 
 <!---
 slavaheroes/slavaheroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
