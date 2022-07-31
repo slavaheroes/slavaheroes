@@ -11,6 +11,10 @@
 
 <br>
 
+<!---
+Need to add links to CV / Resume / Kaggle / Medium
+--->
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
