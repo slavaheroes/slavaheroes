@@ -12,7 +12,7 @@
 <br>
 
 <!---
-Need to add links to CV / Resume / Kaggle / Medium
+Need to add links to CV / Resume / Kaggle / Medium (in future)
 --->
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -21,13 +21,16 @@ Need to add links to CV / Resume / Kaggle / Medium
 &nbsp; <a href="https://www.linkedin.com/in/vyacheslav-shen-2625b364/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:shen9910@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
  &nbsp; <a href="https://t.me/slavaheroes" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" /></a>
+ &nbsp; <a href="https://www.kaggle.com/vyacheslavshen" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" width="50" /></a>
+ 
+ 
 </p>
 
 <br/>
 
 Credits: [slavaheroes](https://github.com/slavaheroes)
 
-Last Edited on: 2022/08/01
+Last Edited on: 2022/09/09
 
 <!---
 slavaheroes/slavaheroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
