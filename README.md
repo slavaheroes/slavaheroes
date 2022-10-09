@@ -5,10 +5,8 @@
 ## :vulcan_salute: About me
 - 🏫 I am a senior student completing double major at KAIST in `Aerospace` and `Electrical Engineering`
 - 👨‍💻 Currently working as Machine Learning Engineer
-- [:memo: Resume] (https://drive.google.com/file/d/1pHGOtF2r7IsI_Rlx-fNEh6K3NwV3p60w/view?usp=sharing)
+- [Resume] (https://drive.google.com/file/d/1pHGOtF2r7IsI_Rlx-fNEh6K3NwV3p60w/view?usp=sharing)
 - [Kaggle](https://www.kaggle.com/vyacheslavshen)
-- :computer: I’m interested in `classic ML` and `Computer Vision`.
-- 🌱: I would like to learn more about SW development and data science.
 
 <br>
 
