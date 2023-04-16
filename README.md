@@ -3,8 +3,8 @@
 <br>
 
 ## :vulcan_salute: About me
-- 🏫 I am a senior student completing double major at KAIST in `Aerospace` and `Electrical Engineering`
-- 👨‍💻 Currently working as Machine Learning Engineer
+- 🏫 I am a masters student at KAIST in `Electrical Engineering`
+- 👨‍💻 Interested in Machine Learning
 - [Resume](https://drive.google.com/file/d/1pHGOtF2r7IsI_Rlx-fNEh6K3NwV3p60w/view?usp=sharing)
 - [Kaggle](https://www.kaggle.com/vyacheslavshen)
 
@@ -26,7 +26,7 @@ Need to add links to Medium (in future)
 
 Credits: [slavaheroes](https://github.com/slavaheroes)
 
-Last Edited on: 2022/09/09
+Last Edited on: 2023/04/16
 
 <!---
 slavaheroes/slavaheroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
