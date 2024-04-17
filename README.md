@@ -5,7 +5,7 @@
 ## :vulcan_salute: About me
 - 🏫 I am a masters student at KAIST in `Electrical Engineering`
 - 👨‍💻 Interested in Machine Learning
-- [Resume](https://drive.google.com/file/d/11U2w--MDy6uWGsRcOX0cTLcC_QoFPy0f/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1bCyn9FxA_tZURnIZgcR9qzsQWol3Su_V/view?usp=sharing)
 - [Kaggle](https://www.kaggle.com/vyacheslavshen)
 
 <br>
