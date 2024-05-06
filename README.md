@@ -5,9 +5,8 @@
 ## :vulcan_salute: About me
 - 🏫 I am a masters student at KAIST in `Electrical Engineering`
 - 👨‍💻 Interested in Machine Learning
-- [Resume](https://drive.google.com/file/d/1bCyn9FxA_tZURnIZgcR9qzsQWol3Su_V/view?usp=sharing)
-- [Kaggle](https://www.kaggle.com/vyacheslavshen)
-
+- [Resume](https://drive.google.com/file/d/1xBbm8rabbU1UCN_LLUlU3rzTjS2mUgew/view?usp=sharing)
+  
 <br>
 
 <!---
@@ -29,4 +28,7 @@ Last Edited on: 2023/04/23
 <!---
 slavaheroes/slavaheroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+- [Kaggle](https://www.kaggle.com/vyacheslavshen)
+
 --->
