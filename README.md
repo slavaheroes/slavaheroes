@@ -3,9 +3,9 @@
 <br>
 
 ## :vulcan_salute: About me
-- 👨‍💻 ML Engineer @ Cerebra.ai
+- 👨‍💻 ML Engineer @ Verigram
 - 🏫 KAIST M.S. in EE, KAIST B.S. in Aerospace and EE
-- 👨‍💻 Machine Learning / Medical Imaging
+- 👨‍💻 Machine Learning / Medical Imaging / Face Recognition
 
 <!---
 - [Resume](https://drive.google.com/file/d/1xBbm8rabbU1UCN_LLUlU3rzTjS2mUgew/view?usp=sharing)
@@ -27,7 +27,7 @@ Need to add links to Medium (in future)
 
 <br/>
 
-Last Edited on: 2025/12/30
+Last Edited on: 2026/06/07
 
 <!---
 slavaheroes/slavaheroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
