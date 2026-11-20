@@ -5,7 +5,7 @@
 ## :vulcan_salute: About me
 - 👨‍💻 ML Engineer @ Verigram
 - 🏫 KAIST M.S. in EE, KAIST B.S. in Aerospace and EE
-- 👨‍💻 Machine Learning / Medical Imaging / Face Recognition
+- 👨‍💻 Deep Learning / Face anti-spoofing / Medical Imaging 
 
 <!---
 - [Resume](https://drive.google.com/file/d/1xBbm8rabbU1UCN_LLUlU3rzTjS2mUgew/view?usp=sharing)
